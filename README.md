@@ -10,6 +10,12 @@
 - Download `todo-app.exe` file on your computer
 - That's all! You can use it now :)
 
+### 👌 Future releases improvements:
+- Setting deadlines for tasks
+- Sorting tasks and other frontend improvements
+- Better error handling (preventing from inserting empty strings)
+
+
 </br>
 
 `technologies used:`
