@@ -7,7 +7,7 @@
 
 ### 👩‍💻 To run this app on your computer:
 - Python is not required
-- Download `todo-app.exe` file from `.exe` directory 
+- Download `todo-app.exe` file on your computer
 - That's all! You can use it now :)
 
 </br>
